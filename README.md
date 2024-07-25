@@ -1,7 +1,5 @@
 
-![Level (1)](https://github.com/user-attachments/assets/550088e5-ac13-4cd6-a48f-b0338115eed2)
-
-
+![Level](https://github.com/user-attachments/assets/c2b2cd8a-39ad-436c-938e-8219cae2ece0)
 
 # 👋 Welcome to Jinseok's GitHub!
 
