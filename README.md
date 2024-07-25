@@ -1,10 +1,10 @@
-![Welcome Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Jinseok's+GitHub) <!-- 이 이미지는 직접 업로드한 이미지를 사용하세요 -->
 
 # 👋 Welcome to Jinseok's GitHub!
 
 ## 🚀 Tech Stack
 
-- **Languages & Frameworks:**  
+- **Languages & Frameworks:**
+  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
   ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
@@ -36,4 +36,4 @@
 
 ---
 
-Feel free to reach out if you have any questions or just want to connect! 🌟
+궁금한 점이 있거나 연결을 원하시면 언제든지 연락주세요! 🌟
