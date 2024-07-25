@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=&height=300&section=header&text=Welcome to%20Jinseok's Github&fontSize=40" />
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20to%20Jinseok's%20Github&fontSize=50)
 
 # 👋 Welcome to Jinseok's GitHub!
 
