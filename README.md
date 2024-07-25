@@ -1,3 +1,6 @@
+
+![Level (1)](https://github.com/user-attachments/assets/550088e5-ac13-4cd6-a48f-b0338115eed2)
+
 # 👋 Welcome to Jinseok's GitHub!
 
 ## 🚀 Tech Stack
